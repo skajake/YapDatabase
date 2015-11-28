@@ -91,11 +91,11 @@ framework module YapDatabase {
 	
 	// Extension: Hooks
 	
-	explicit module YapDatabaseHooks {
-		header "YapDatabaseHooks.h"
-		header "YapDatabaseHooksConnection.h"
-		header "YapDatabaseHooksTransaction.h"
-	}
+	//explicit module YapDatabaseHooks {
+	//	header "YapDatabaseHooks.h"
+	//	header "YapDatabaseHooksConnection.h"
+	//	header "YapDatabaseHooksTransaction.h"
+	//}
 	
 	// Extension: CloudKit
 	
