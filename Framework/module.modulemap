@@ -34,7 +34,7 @@ framework module YapDatabase {
 	}
 	
 	// Extension: FilteredView
-	
+	/*
 	explicit module YapDatabaseFilteredView {
 		header "YapDatabaseFilteredView.h"
 		header "YapDatabaseFilteredViewTypes.h"
@@ -87,7 +87,7 @@ framework module YapDatabase {
 		
 		export YapDatabaseView
 		export YapDatabaseFullTextSearch
-	}
+	}*/
 	
 	// Extension: Hooks
 	
@@ -113,7 +113,7 @@ framework module YapDatabase {
 	
 	// Extension: RTree
 	
-	explicit module YapDatabaseRTreeIndex {
+	/*explicit module YapDatabaseRTreeIndex {
 		header "YapDatabaseRTreeIndex.h"
 		header "YapDatabaseExtension.h"
 		header "YapDatabaseRTreeIndexSetup.h"
@@ -121,5 +121,5 @@ framework module YapDatabase {
 		header "YapDatabaseRTreeIndexOptions.h"
 		header "YapDatabaseRTreeIndexConnection.h"
 		header "YapDatabaseRTreeIndexTransaction.h"
-	}
+	}*/
 }
