@@ -1,5 +1,5 @@
 framework module YapDatabase {
-	
+	/*
 	header "YapDatabase.h"
 	header "YapDatabaseConnection.h"
 	header "YapDatabaseTransaction.h"
@@ -32,7 +32,7 @@ framework module YapDatabase {
 		header "YapDatabaseViewChange.h"
 		header "YapDatabaseViewRangeOptions.h"
 	}
-	
+	*/
 	// Extension: FilteredView
 	/*
 	explicit module YapDatabaseFilteredView {
