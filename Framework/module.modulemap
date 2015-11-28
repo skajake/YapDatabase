@@ -99,17 +99,17 @@ framework module YapDatabase {
 	
 	// Extension: CloudKit
 	
-	explicit module YapDatabaseCloudKit {
-		header "YapDatabaseCloudKit.h"
-		header "YapDatabaseCloudKitTypes.h"
-		header "YapDatabaseCloudKitOptions.h"
-		header "YapDatabaseCloudKitConnection.h"
-		header "YapDatabaseCloudKitTransaction.h"
-		header "YDBCKChangeSet.h"
-		header "YDBCKMergeInfo.h"
-		header "YDBCKRecordInfo.h"
-		header "YDBCKRecord.h"
-	}
+	//explicit module YapDatabaseCloudKit {
+	//	header "YapDatabaseCloudKit.h"
+	//	header "YapDatabaseCloudKitTypes.h"
+	//	header "YapDatabaseCloudKitOptions.h"
+	//	header "YapDatabaseCloudKitConnection.h"
+	//	header "YapDatabaseCloudKitTransaction.h"
+	//	header "YDBCKChangeSet.h"
+	//	header "YDBCKMergeInfo.h"
+	//	header "YDBCKRecordInfo.h"
+	//	header "YDBCKRecord.h"
+	//}
 	
 	// Extension: RTree
 	
